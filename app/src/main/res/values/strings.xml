@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Love Pic Editor</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3359822051784489/5784566309</string>
+    <string name="nativi_ad_unitid">ca-app-pub-3359822051784489/2190126568</string>
+    <string name="privacy_policy">
+        Dreamy InfoTech Apps collects There are many things an application can do to, and for, your phone. But anything an app can do is told to you when you download and install it. Before you download and install an app, you will be shown a list of permissions the application is requesting. In the Permissions section you can read a list of some of the most commonly used permissions. The list explains how important they are,what they do. This should help you get a basic understanding of what to allow  an application.
+
+\n\n1) Internet and view network connection permission:
+This permission is allow to connect to the INTERNET. This permission is used in application setting and notification tool bar in order to view network connections.
+\n\n2) Read device identify:
+Allows the application to access the phone features of the device. With this permission the application can find accounts on the device, see and modify owner’s contact card and add or remove contacts from the device. An application with this permission can determine the phone number and serial number of this device.
+
+\n\n•	Cross Application Promotion on your device:
+ You may choose of getting your mobile advertising identifiers used sure styles of interest-based (also referred to as cross-application) mobile behavioral advertising, by accessing the settings on your Apple or humanoid mobile device, as follows: By gap the Google Settings app on your device,choosing Ads, then choosing the choice to opt-out of interest-based ads. (Different device configurations, or updates to devices, could have an effect on or amendment howeverthese settings work.)
+
+\n\n•	How we keep your information secure and confidential:
+The security and confidentiality of your Information is very important to us, so we take security measures to help safeguard your information from unauthorized access and disclosure efforts, no security measures are perfect. We have taken commercially appropriate technical and organizational security measures to protect Your Information from misuse,  unlawful access , loss, alteration, damage or destruction.
+
+\n\n•	How we share your information:
+We may share your information with our authorized service provider that perform certain services on our behalf. These service providers may have limited access to your information, which is needed to perform their functions, but are not permitted to share or use such information for any other purpose. We may also allow third parties like marketing partner or service provider to access your information.
+
+\n\n•	Changes to Privacy Policy:
+When develops new product and services, deploys new technologies and develops new uses of information, we review and update our privacy policy to reflect these changes. In addition, from time to time we make organization, stylistic and grammatical changes to present our practices in a way that makes our policy easy to read.
+
+\n\n•   Children privacy :
+This policy do not address anyone under the age of 13.  We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a children under 13 has provided us with personal information we immediately delete this from our servers.
+
+\n\n•   Contact us:
+If you have any question or suggestions or request please contact us on email us at dhaval@vakratundasystem.in</string>
+
+
+    <string name="Frames">Frames</string>
+    <string name="Opacity">Opacity</string>
+    <string name="Stickrs">Stickers</string>
+    <string name="Text">Flips</string>
+    <string name="download">Download</string>
+    <string name="save">Save</string>
+    <string name="share">Share</string>
+    <string name="rateus">Rate Us</string>
+    <string name="cooking_tips_sweet_spicy">Love Pic Editor</string>
+    <string name="top_app">APP HUB</string>
+    <string name="interstitial_full_screen">ca-app-pub-3359822051784489/2966831276</string>
+
+</resources>
